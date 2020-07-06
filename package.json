@@ -1,7 +1,7 @@
 {
   "name": "discord-music",
   "version": "0.0.1",
-  "description": "A simple discord music bot.",
+  "description": "A simple discord Moderation & Music bot.",
   "main": "index.js",
   "engines": {
     "node": "12.x"
